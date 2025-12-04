@@ -42,8 +42,12 @@ python perdido_na_ilha.py
 ------------------------------------------------------------------------
 ##FIXA
 <img width="337" height="673" alt="image" src="https://github.com/user-attachments/assets/741a3e9a-f105-4055-af22-48937b9299bb" />
+
+
 ##ALEATÓRIA 
 <img width="682" height="766" alt="image" src="https://github.com/user-attachments/assets/a0c7f34d-d16a-4424-a206-127402d0ae33" />
+
+
 ##GULOSA
 <img width="367" height="656" alt="image" src="https://github.com/user-attachments/assets/85bd46c3-4c8b-4b30-9c9b-a89408266a43" />
 
